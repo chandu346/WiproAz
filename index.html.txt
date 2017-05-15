@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Wipro</title>
+</head>
+<body>
+</h1>Welcome to azure</h1>
+</body>
+</html>
